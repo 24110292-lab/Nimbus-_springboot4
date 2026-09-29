@@ -1,0 +1,42 @@
+{"properties": [
+  {
+    "name": "security.jwt.secret-key",
+    "type": "java.lang.String",
+    "description": "A description for 'security.jwt.secret-key'"
+  },
+  {
+    "name": "security.jwt.expiration-time",
+    "type": "java.lang.String",
+    "description": "A description for 'security.jwt.expiration-time'"
+  },
+  {
+    "name": "spring.servlet.encoding.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.servlet.encoding.enabled'"
+  },
+  {
+    "name": "spring.servlet.encoding.force",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.servlet.encoding.force'"
+  },
+  {
+    "name": "spring.servlet.encoding.charset",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.servlet.encoding.charset'"
+  },
+  {
+    "name": "cloudinary.cloud-name",
+    "type": "java.lang.String",
+    "description": "A description for 'cloudinary.cloud-name'"
+  },
+  {
+    "name": "cloudinary.api-key",
+    "type": "java.lang.String",
+    "description": "A description for 'cloudinary.api-key'"
+  },
+  {
+    "name": "cloudinary.api-secret",
+    "type": "java.lang.String",
+    "description": "A description for 'cloudinary.api-secret'"
+  }
+]}
